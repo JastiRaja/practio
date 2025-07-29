@@ -4,17 +4,17 @@ import GridBackground from "./GridBackground";
 const testimonials = [
   {
     quote:
-      "Just had the easiest onboarding possible via Practio. 10 min start to finish for all the documentation that usually takes days. Saves even more time for the HR team.",
+      "Just had the easiest onboarding possible via Pract**. 10 min start to finish for all the documentation that usually takes days. Saves even more time for the HR team.",
     author: "Raja J.",
   },
   {
     quote:
-      "Practio has made our payroll process seamless. No more manual work, and our employees love the experience!",
+      "Pract** has made our payroll process seamless. No more manual work, and our employees love the experience!",
     author: "Priyanka K.",
   },
   {
     quote:
-      "Switching to Practio was the best decision! The HR automation tools saved us countless hours every month.",
+      "Switching to Pract** was the best decision! The HR automation tools saved us countless hours every month.",
     author: "Ramesh G.",
   },
 ];
@@ -77,12 +77,12 @@ const MediumBusiness = () => {
             className="flex-1 z-10 px-4 py-2 text-black outline-none"
           />
           <button className="bg-yellow-500 z-10 text-black font-semibold px-6 py-2">
-            See Practio
+            See Pract**
           </button>
         </div>
  
         <p className="text-sm text-gray-400 mt-3">
-            By clicking "See Practio," you agree to the use of your data in accordance with Practio's{" "}
+            By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s{" "}
             <a href="#" className="text-white underline">
               Privacy Notice
             </a>
@@ -107,7 +107,7 @@ const MediumBusiness = () => {
         Get the tools you need at every stage
       </h2>
       <p className="text-gray-300 mb-8 max-w-3xl mx-auto">
-        Every Practio product is built on the same powerful foundation, so it's painless to implement new ones as your business needs evolve.
+        Every Pract** product is built on the same powerful foundation, so it's painless to implement new ones as your business needs evolve.
       </p>
  
       {/* Tools Grid */}
@@ -136,7 +136,7 @@ const MediumBusiness = () => {
         Automate 90% of your <br /> administrative work
       </h2>
       <p className="text-gray-600 max-w-3xl mx-auto">
-        Practio automates routine changes, like updating employees’ payroll taxes if they move.
+        Pract** automates routine changes, like updating employees’ payroll taxes if they move.
         You can also build custom automations to streamline your company’s unique processes.
       </p>
     </div>
@@ -149,7 +149,7 @@ const MediumBusiness = () => {
       Designed for you.< br />
       Admired by employees.      </h2>
       <p className="text-gray-600 max-w-3xl mx-auto mb-8">
-      Seamless, innovative, and engaging—these are just a few ways our customers' employees describe their experience with Practio.
+      Seamless, innovative, and engaging—these are just a few ways our customers' employees describe their experience with Pract**.
       </p>
       <p className="text-lg font-semibold text-gray-900 max-w-2xl mx-auto italic">
         “{testimonials[index].quote}”
@@ -180,14 +180,14 @@ const MediumBusiness = () => {
         Analyze, automate, and <br />orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes
+        Most “all-in-one” software consists of acquired systems. Pract** takes
         a platform approach, building products on a single source of truth for all
         business data related to employees.
       </p>
  
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
  
       {/* Cards */}
@@ -211,14 +211,14 @@ const MediumBusiness = () => {
       HRIS system for midsize businesses?
     </h2>
     <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
-      See how Practio can help you manage all of your employee data and
+      See how Pract** can help you manage all of your employee data and
       operations in one place, no matter your business’s size.
     </p>
  
     {/* Buttons */}
     <div className="flex flex-col z-10 md:flex-row justify-center gap-4">
       <button className="bg-yellow-500 z-10 text-black font-semibold px-6 py-3 rounded-lg"
-       onClick={() => window.location.href = '/seePractio'}>
+       onClick={() => window.location.href = '/seePract**'}>
         Request demo
       </button>
       {/* <button className="border border-yellow-500 text-yellow-500 font-semibold px-6 py-3 rounded-lg">

@@ -31,7 +31,7 @@ const Construction = () => {
         {/* Left Content Section */}
         <div className="flex-1 max-w-xl">
           <h2 className="text-lg uppercase tracking-wide text-gray-300">
-            Practio FOR MANUFACTURING
+            Pract** FOR MANUFACTURING
           </h2>
           <h1 className="text-4xl font-bold leading-tight mt-2">
             HR & Payroll as efficient <br /> as your production line
@@ -48,12 +48,12 @@ const Construction = () => {
               className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium"
              
             >
-              See Practio
+              See Pract**
             </button>
           </div>
  
           <p className="text-sm text-gray-400 mt-3">
-            By clicking "See Practio," you agree to the use of your data in accordance with Practio's{" "}
+            By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s{" "}
             <a href="#" className="text-white underline">
               Privacy Notice
             </a>
@@ -63,7 +63,7 @@ const Construction = () => {
  
         {/* Right Image Section */}
         <div className="flex-1 flex justify-center">
-          <img src={logo11} alt="Practio HR Software" className="w-full max-w-lg rounded-lg" />
+          <img src={logo11} alt="Pract** HR Software" className="w-full max-w-lg rounded-lg" />
         </div>
       </div>
  
@@ -94,7 +94,7 @@ const Construction = () => {
         Run payroll in minutes, not hours
       </h2>
       <p className="text-gray-600 max-w-2xl mt-4">
-        Practio syncs all your business's HR data with payroll. Never manually
+        Pract** syncs all your business's HR data with payroll. Never manually
         enter data, like hours worked, or use a calculator to crunch shift
         differentials, PTO, and multiple pay rates again.
       </p>
@@ -156,7 +156,7 @@ const Construction = () => {
         Create and customize any report imaginable
       </h2>
       <p className="mt-4 text-gray-600 max-w-2xl">
-        Practio's powerful, easy-to-use reporting engine gives your team the
+        Pract**'s powerful, easy-to-use reporting engine gives your team the
         insight they need to make smart staffing decisions and provide detailed
         audit logs for compliance purposes.
       </p>
@@ -179,7 +179,7 @@ const Construction = () => {
           Purpose built for a workforce that’s on-the-go
         </h2>
         <p className="mt-4 text-gray-600 max-w-lg">
-          Practio's mobile app ensures your workforce can do everything they
+          Pract**'s mobile app ensures your workforce can do everything they
           need to on their phone. Whether it’s to access their paycheck, take a
           training course, clock-in and log hours, submit PTO, or review their
           benefits, our mobile app is tailor-made for your on-the-go workforce.
@@ -204,14 +204,14 @@ const Construction = () => {
         Analyze, automate, and <br />orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes
+        Most “all-in-one” software consists of acquired systems. Pract** takes
         a platform approach, building products on a single source of truth for all
         business data related to employees.
       </p>
  
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
  
       {/* Cards */}
@@ -242,7 +242,7 @@ const Construction = () => {
                     <h3 className="text-lg font-semibold"></h3>
                   </div>
           <p className="mt-2 text-gray-300">
-            See how you can automate your workflows and reporting with Practio’s growing
+            See how you can automate your workflows and reporting with Pract**’s growing
             library of pre-built templates.
           </p>
           {/* <a href="#" className="mt-3 text-yellow-400 font-semibold underline">
@@ -258,12 +258,12 @@ const Construction = () => {
             Get a demo—<span className="text-yellow-400">live or on demand</span>
           </h2>
           <p className="mt-3 text-gray-300">
-            See how Practio can help you manage all of your employee data and operations in
+            See how Pract** can help you manage all of your employee data and operations in
             one place and easily grow your business from 2 to 2,000+ employees.
           </p>
           <div className="mt-6 flex gap-4">
             <button className="bg-yellow-500 text-black px-6 py-3 rounded-md font-semibold hover:bg-yellow-600"
-             onClick={() => window.location.href = '/seePractio'}>
+             onClick={() => window.location.href = '/seePract**'}>
               Request Live Demo
             </button>
             {/* <button className="border border-yellow-400 text-yellow-400 px-6 py-3 rounded-md font-semibold hover:bg-yellow-500 hover:text-black">

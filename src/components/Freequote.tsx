@@ -22,7 +22,7 @@ export default function Freequote() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#3c1f3f] text-white p-6">
-      <h2 className="text-3xl font-bold mb-2">Request a free Practio <center>quote</center></h2>
+      <h2 className="text-3xl font-bold mb-2">Request a free Pract** <center>quote</center></h2>
       <p className="mb-6 text-center">We'll contact you to discuss your needs and send tailored pricing.
 
 </p>
@@ -54,7 +54,7 @@ export default function Freequote() {
       </form>
 
       <p className="text-sm mt-4 text-center ">
-        By clicking "Get a Free Quote," you agree to the use of your data in accordance with Practio's < br /><a href="#" className="underline">Privacy Notice</a>, including for marketing purposes.
+        By clicking "Get a Free Quote," you agree to the use of your data in accordance with Pract**'s < br /><a href="#" className="underline">Privacy Notice</a>, including for marketing purposes.
       </p>
 
       {/* Added extra space between form and star ratings */}

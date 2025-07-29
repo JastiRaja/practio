@@ -15,7 +15,7 @@
 //   Menu, 
 //   X      
 // } from 'lucide-react';
-// import logo from './Practio logo.png';
+// import logo from './Pract** logo.png';
 
 // interface NavItem {
 //   title: string;
@@ -41,7 +41,7 @@
 // const navItems: Record<string, NavItem> = {
 //   Products: {
 //     leftPanel: {
-//       title: 'Practio HCM',
+//       title: 'Pract** HCM',
 //       description: 'Drive business outcomes with the #1 rated HR solution.',
 //       learnMoreLink: '/products/hcm',
 //     },
@@ -279,8 +279,8 @@
 //                 <a href="/login" className="text-white-600 hover:text-blue-900 font-medium">
 //                 Login
 //                 </a>
-//                 <a href="/seePractio" className="bg-[#F5B638] text-black px-4 py-2 rounded-md hover:bg-[#E5A628] font-medium">
-//                 See Practio
+//                 <a href="/seePract**" className="bg-[#F5B638] text-black px-4 py-2 rounded-md hover:bg-[#E5A628] font-medium">
+//                 See Pract**
 //                 </a>
 //             </div>
 
@@ -382,7 +382,7 @@
 //                 Login
 //               </button>
 //               <button className="bg-[#F5B638] text-black px-4 py-2 rounded-md hover:bg-[#E5A628] font-medium text-left">
-//                 See Practio
+//                 See Pract**
 //               </button>
 //             </div>
 
@@ -481,7 +481,7 @@ import {
   ReceiptIndianRupee ,
   X      
 } from 'lucide-react';
-import logo from './Practio logo.png';
+import logo from './sample.png';
 import { Route } from 'react-router-dom';
 
 interface NavItem {
@@ -508,7 +508,7 @@ interface NavItem {
 const navItems: Record<string, NavItem> = {
   Products: {
     leftPanel: {
-      title: 'Practio HCM',
+      title: 'Pract** HCM',
       description: 'Drive business outcomes with the #1 rated HR solution.',
       learnMoreLink: '/products/hcm',
     },
@@ -776,10 +776,10 @@ function Navbar() {
                 Login
               </a>
               <a
-                href="/seePractio"
+                href="/seePract**"
                 className="bg-[#F5B638] text-black px-4 py-2 rounded-md hover:bg-[#E5A628] font-medium"
               >
-                See Practio
+                See Pract**
               </a>
             </div>
 
@@ -877,7 +877,7 @@ function Navbar() {
                 Login
               </button>
               <button className="bg-[#F5B638] text-black px-4 py-2 rounded-md hover:bg-[#E5A628] font-medium text-left">
-                See Practio
+                See Pract**
               </button>
             </div>
 

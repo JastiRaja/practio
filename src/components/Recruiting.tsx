@@ -46,11 +46,11 @@
 //                 className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
 //               />
 //               <button className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-//                 See Practio
+//                 See Pract**
 //               </button>
 //             </div>
 //             <p className="mt-3 text-sm text-gray-400">
-//                 By clicking "See Practio," you agree to our terms and privacy policy.
+//                 By clicking "See Pract**," you agree to our terms and privacy policy.
 //               </p>
 //           </motion.div>
 //         </div>
@@ -72,7 +72,7 @@
 //         <p>Connect your employees payroll with their login time </p>
 
 //         <h6 className='text-center font-bold mt-10 text-center'>Other systems are error-prone and take hours of
-//            manual work to reconcile. With Practio, approved 
+//            manual work to reconcile. With Pract**, approved 
 //            hours automatically flow into Payroll—reducing manual data entry and errors.</h6>
 //        </div>
 //       </div>
@@ -149,12 +149,12 @@ const Recruiting = () => {
                     leading-normal
                   "/>
                 <button className="w-3/4 h-[58px] bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                              See Practio
+                              See Pract**
                             </button>
             </div>
 
             <p className="mt-3 text-sm text-gray-400 text-center">
-              By clicking "See Practio," you agree to our terms and privacy policy.
+              By clicking "See Pract**," you agree to our terms and privacy policy.
             </p>
           </motion.div>
         </div>
@@ -177,7 +177,7 @@ const Recruiting = () => {
           <p>Connect your employees' payroll with their login time</p>
           <h6 className="text-center font-bold mt-10">
             Other systems are error-prone and take hours of manual work to reconcile. 
-            With Practio, approved hours automatically flow into Payroll—reducing manual 
+            With Pract**, approved hours automatically flow into Payroll—reducing manual 
             data entry and errors.
           </h6>
         </div>

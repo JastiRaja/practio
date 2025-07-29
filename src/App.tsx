@@ -65,7 +65,7 @@ function App() {
       <Routes>
           <Route path="/hris" element={<Hris />} />
           <Route path="/login" element={<Login />} />
-          <Route path='/seePractio' element={<SeePractio/>}/>
+          <Route path='/seePract**' element={<SeePractio/>}/>
           <Route path='/pricing' element={<Pricing/>}/>
           <Route path="/time-and-attendance" element={<Attendance/>}/>
           <Route path='/recruiting' element={<Recruiting/>}/>
@@ -98,7 +98,7 @@ function App() {
             transition={{ duration: 0.6 }}
           >
             <h1 className="text-2xl sm:text-6xl font-bold mb-4 mt-10 text-center ">
-              Employees Get More <br/>Done with Practio
+              Employees Get More <br/>Done with Pract**
             </h1>
             <p className="text-lg sm:text-xl text-gray-300 mb-8 text-center ">
               Increase savings, automate busy work, and make better decisions by managing payroll, HR, IT, and spend in one place.
@@ -132,11 +132,11 @@ function App() {
                               leading-normal
                             "/>
                          <button className="px-6 py-4 bg-[#F5B638] z-10 text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                See Practio
+                See Pract**
               </button>
                       </div>
                       <p className="mt-3 text-sm text-gray-400">
-                      By clicking "See Practio," you agree to the use of your data in accordance with Practio's Privacy Notice.
+                      By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s Privacy Notice.
                         </p>
                     </motion.div>
                   </div>
@@ -193,7 +193,7 @@ function App() {
                   Accelerate every part of your business
                 </h2>
                 <p className="text-purple-800 text-opacity-70 text-center mb-12">
-                  Everything you need to manage your business operations in one unified system.  Practio was built through R&D (not M&A), so its apps work together seamlessly.
+                  Everything you need to manage your business operations in one unified system.  Pract** was built through R&D (not M&A), so its apps work together seamlessly.
                 </p>
                 
                 {/* Tabs */}

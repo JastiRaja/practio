@@ -175,7 +175,7 @@ const Hris = () => {
             transition={{ duration: 0.6 }}
             className="text-[#F5B638] font-medium mb-4"
           >
-            Practio HRIS
+            Pract** HRIS
           </motion.p>
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
@@ -191,7 +191,7 @@ const Hris = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-xl text-gray-300 max-w-3xl mx-auto"
           >
-            Practio saves time and enables strategic decisions by automating manual tasks,
+            Pract** saves time and enables strategic decisions by automating manual tasks,
             eliminating compliance errors, and giving employees access to information they need.
           </motion.p>
         </div>
@@ -210,10 +210,10 @@ const Hris = () => {
                 className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
               />
               <button className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                See Practio
+                See Pract**
               </button>
             </div>
-            <p> By clicking "See Practio," you agree to the use of your data in accordance with Practio's Privacy Notice.</p>
+            <p> By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s Privacy Notice.</p>
           </motion.div>
 
           <motion.div
@@ -265,7 +265,7 @@ const Hris = () => {
                     The most complete view of<br />your organization
                   </motion.h2>
                   <p className="text-center p-4">Disconnected systems create repetitive manual work 
-                    and are unable to offer business-critical insights. At Practio, every product is 
+                    and are unable to offer business-critical insights. At Pract**, every product is 
                     built in-house and designed to seamlessly share data - including third-party apps—giving
                      you a single source of truth.</p>
                   <MovingCards />

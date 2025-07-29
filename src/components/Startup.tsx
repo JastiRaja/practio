@@ -59,10 +59,10 @@ const Startup = () => {
             START-UPS
           </h2>
           <h1 className="text-4xl font-bold leading-tight mt-2">
-            Grow your startup faster  with Practio
+            Grow your startup faster  with Pract**
           </h1>
           <p className="mt-4 text-gray-300 max-w-md">
-            Practio helps you offload critical admin work for payroll, benefits,
+            Pract** helps you offload critical admin work for payroll, benefits,
             compliance, IT, and finance—helping your startup grow fast and stay
             lean.
           </p>
@@ -98,12 +98,12 @@ const Startup = () => {
      
       <div className="w-full bg-[#432E54] mt-7 py-16 px-6 md:px-16 text-white flex flex-col items-center">
       {/* Title Section */}
-      <h4 className="text-sm uppercase tracking-wide text-gray-400">The Practio Effect</h4>
+      <h4 className="text-sm uppercase tracking-wide text-gray-400">The Pract** Effect</h4>
       <h2 className="text-3xl font-bold mt-2 text-center">
         Built to let start-ups with <br /> lean teams scale with ease
       </h2>
       <p className="mt-4 text-gray-300 text-center max-w-2xl">
-        Practio helps start-ups stay nimble and succeed out of the gate with
+        Pract** helps start-ups stay nimble and succeed out of the gate with
         intuitive workflows and powerful automations.
       </p>
  
@@ -118,7 +118,7 @@ const Startup = () => {
         <div className="text-center">
           <h3 className="text-4xl font-bold">50%</h3>
           <p className="text-gray-400 mt-2">
-            less headcount needed to scale compared to non-Practio customers
+            less headcount needed to scale compared to non-Pract** customers
           </p>
         </div>
         <div className="text-center">
@@ -137,7 +137,7 @@ const Startup = () => {
         A force multiplier for every part of your business
       </h2>
       <p className="mt-4 text-gray-600 max-w-3xl mx-auto">
-        Practio automatically handles more administrative tasks than any other HR
+        Pract** automatically handles more administrative tasks than any other HR
         solution for start-ups—a complete, turnkey back office in a box.
       </p>
  
@@ -146,13 +146,13 @@ const Startup = () => {
         <FeatureCard
           icon={<FaCog className="text-4xl text-yellow-500" />}
           title="Make IT management automatic"
-          description="Practio makes it easy to manage apps and devices, like automatically
+          description="Pract** makes it easy to manage apps and devices, like automatically
           shipping laptops, or controlling access based on roles."
         />
         <FeatureCard
           icon={<FaGlobe className="text-4xl text-yellow-500" />}
           title="Scale globally without the hassle"
-          description="Practio handles the hard parts of hiring and paying international employees,
+          description="Pract** handles the hard parts of hiring and paying international employees,
           ensuring compliance with local tax laws."
         />
         <FeatureCard
@@ -171,7 +171,7 @@ const Startup = () => {
         Get new hires to peak productivity—faster
       </h2>
       <p className="mt-4 text-gray-300 max-w-3xl mx-auto">
-        Practio ensures your new employees have everything they need to hit the
+        Pract** ensures your new employees have everything they need to hit the
         ground running on day one.
       </p>
  
@@ -197,7 +197,7 @@ const Startup = () => {
             </ul>
           </div>
           <p className="text-gray-300 mt-4 text-left">
-            Practio gets new hires running in 90 seconds by assigning required
+            Pract** gets new hires running in 90 seconds by assigning required
             trainings, sending invites to meetings, and more.
           </p>
         </div>
@@ -286,14 +286,14 @@ const Startup = () => {
         Analyze, automate, and <br />orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes
+        Most “all-in-one” software consists of acquired systems. Pract** takes
         a platform approach, building products on a single source of truth for all
         business data related to employees.
       </p>
  
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
  
       {/* Cards */}
@@ -323,7 +323,7 @@ const Startup = () => {
                     <h3 className="text-lg font-semibold"></h3>
                   </div>
           <p className="mt-2 text-gray-300">
-            See how you can automate your workflows and reporting with Practio’s growing
+            See how you can automate your workflows and reporting with Pract**’s growing
             library of pre-built templates.
           </p>
           {/* <a href="#" className="mt-3 text-yellow-400 font-semibold underline">
@@ -339,12 +339,12 @@ const Startup = () => {
             Get a demo—<span className="text-yellow-400">live or on demand</span>
           </h2>
           <p className="mt-3 text-gray-300">
-            See how Practio can help you manage all of your employee data and operations in
+            See how Pract** can help you manage all of your employee data and operations in
             one place and easily grow your business from 2 to 2,000+ employees.
           </p>
           <div className="mt-6 flex gap-4">
             <button className="bg-yellow-500 z-10 text-black px-6 py-3 rounded-md font-semibold hover:bg-yellow-600" 
-             onClick={() => window.location.href = '/seePractio'}>
+             onClick={() => window.location.href = '/seePract**'}>
               Request Live Demo
             </button>
             {/* <button className="border border-yellow-400 text-yellow-400 px-6 py-3 rounded-md font-semibold hover:bg-yellow-500 hover:text-black">

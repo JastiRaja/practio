@@ -56,7 +56,7 @@ const TaskManagement = () => {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="text-6xl font-bold mb-6"
         >
-          Automate all your tasks using Practio Task Management services
+          Automate all your tasks using Pract** Task Management services
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -64,7 +64,7 @@ const TaskManagement = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-xl text-gray-300 max-w-3xl mx-auto"
         >
-          Practio saves time and enables strategic decisions by automating manual tasks,
+          Pract** saves time and enables strategic decisions by automating manual tasks,
           eliminating compliance errors, and giving employees access to information they need.
         </motion.p>
       </div>
@@ -83,10 +83,10 @@ const TaskManagement = () => {
               className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
             />
             <button className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-              See Practio
+              See Pract**
             </button>
           </div>
-          <p> By clicking "See Practio," you agree to the use of your data in accordance with Practio's Privacy Notice.</p>
+          <p> By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s Privacy Notice.</p>
         </motion.div>
         <motion.div
             initial={{ opacity: 0, x: 50 }}
@@ -119,7 +119,7 @@ const TaskManagement = () => {
             More custom triggers. <br /> More advanced actions.
           </h2>
           <p className="text-xl text-black">
-            Any data in Practio or connected third-party apps can become your trigger—like security course completions, 
+            Any data in Pract** or connected third-party apps can become your trigger—like security course completions, 
             dedicated endpoint threats, or support tickets. Pick a trigger and set an action.
           </p>
         </div>
@@ -136,7 +136,7 @@ const TaskManagement = () => {
           <div>
             <h4 className="text-2xl font-bold mb-4">Automate across all your apps</h4>
             <p className="text-black-300 w-3/4">
-              Practio helps you integrate with Payroll, Recruiting, and third-party apps like Slack and Zendesk,
+              Pract** helps you integrate with Payroll, Recruiting, and third-party apps like Slack and Zendesk,
               so you can take automated actions across your entire tech stack with a single trigger.
             </p>
           </div>

@@ -61,7 +61,7 @@ const Analytics = () => {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="text-6xl font-bold mb-6"
         >
-          Automate all your tasks using Practio Task Management services
+          Automate all your tasks using Pract** Task Management services
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
@@ -69,7 +69,7 @@ const Analytics = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-xl text-gray-300 max-w-3xl mx-auto"
         >
-          Practio saves time and enables strategic decisions by automating manual tasks,
+          Pract** saves time and enables strategic decisions by automating manual tasks,
           eliminating compliance errors, and giving employees access to information they need.
         </motion.p>
       </div>
@@ -88,10 +88,10 @@ const Analytics = () => {
               className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
             />
             <button className="px-4 h-[58px] bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-              See Practio
+              See Pract**
             </button>
           </div>
-          <p> By clicking "See Practio," you agree to the use of your data in accordance with Practio's Privacy Notice.</p>
+          <p> By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s Privacy Notice.</p>
         </motion.div>
         <motion.div
             initial={{ opacity: 0, x: 50 }}
@@ -168,7 +168,7 @@ const Analytics = () => {
             Empower leaders without sacrificing security
           </h2>
           <p className="text-center text-xl text-gray-200 max-w-3xl mx-auto mb-12">
-            With Practio, you can share or restrict access to sensitive data and analytics.
+            With Pract**, you can share or restrict access to sensitive data and analytics.
             We’ll give you the freedom to empower employees and IT staff while still maintaining 
             the security and compliance your business demands.
           </p>

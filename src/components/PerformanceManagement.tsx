@@ -66,12 +66,12 @@ const PerformanceManagement = () => {
                         z-10
                       "/>
                     <button className="w-1/2 h-[58px]  p-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium z-10">
-                                  See Practio
+                                  See Pract**
                                 </button>
                 </div>
     
                 <p className="mt-3 text-sm text-gray-400 text-center">
-                  By clicking "See Practio," you agree to our terms and privacy policy.
+                  By clicking "See Pract**," you agree to our terms and privacy policy.
                 </p>
               </motion.div>
             </div>
@@ -94,7 +94,7 @@ const PerformanceManagement = () => {
               <h5></h5> */}
               {/* <h6 className="text-center font-bold mt-10">
                 Other systems are error-prone and take hours of manual work to reconcile. 
-                With Practio, approved hours automatically flow into Payroll—reducing manual 
+                With Pract**, approved hours automatically flow into Payroll—reducing manual 
                 data entry and errors.
               </h6> */}
             {/* </div>

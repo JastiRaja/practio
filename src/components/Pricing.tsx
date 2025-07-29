@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import logo4 from '../components/Practio logo.png';
+import logo4 from '../components/sample.png';
 import GridBackground from "./GridBackground";
  
 export default function PricingPage() {
@@ -31,23 +31,23 @@ export default function PricingPage() {
     {
       question: "Can I buy each product separately?",
       answer:
-        "Each HR, Finance and IT product (e.g., Payroll, Expenses, Benefits, Device Management) can be purchased separately—alongside the core, required Practio Unity Platform—so you can create just the right plan for you.",
+        "Each HR, Finance and IT product (e.g., Payroll, Expenses, Benefits, Device Management) can be purchased separately—alongside the core, required Pract** Unity Platform—so you can create just the right plan for you.",
     },
     {
-      question: "How does Practio pricing work?",
-      answer: "Practio pricing is based on the services you choose. Contact us for a custom quote.",
+      question: "How does Pract** pricing work?",
+      answer: "Pract** pricing is based on the services you choose. Contact us for a custom quote.",
     },
     {
-      question: "We're currently using another provider for payroll, but I love the ease of Practio. How painful will it be to make the switch?",
-      answer: "Switching to Practio is seamless, with automated data migration and guided setup.",
+      question: "We're currently using another provider for payroll, but I love the ease of Pract**. How painful will it be to make the switch?",
+      answer: "Switching to Pract** is seamless, with automated data migration and guided setup.",
     },
     {
-      question: "Does Practio offer Partner pricing?",
+      question: "Does Pract** offer Partner pricing?",
       answer: "Yes, we have partner pricing options available. Contact sales for more information.",
     },
     {
-      question: "How does Practio's pricing compare to similar services?",
-      answer: "Trick question—there’s no service like Practio! Practio is the only service that allows you to unify HR, Finance and IT. That said, each Practio bundle is competitive with more narrowly-focused competitors’ pricing.",
+      question: "How does Pract**'s pricing compare to similar services?",
+      answer: "Trick question—there’s no service like Pract**! Pract** is the only service that allows you to unify HR, Finance and IT. That said, each Pract** bundle is competitive with more narrowly-focused competitors’ pricing.",
     },
   ];
  
@@ -179,7 +179,7 @@ export default function PricingPage() {
                 <div className="w-8 h-8 flex items-center justify-center ">
   <img src={logo4} alt="Logo" className="w-10 h-10" />
 </div>                </div>
-                <h3 className="text-2xl font-bold">Practio Platform</h3>
+                <h3 className="text-2xl font-bold">Pract** Platform</h3>
               </div>
               <p className="text-gray-600 mt-2">
                 Manage and automate all of your workforce operations in one place—onboarding, offboarding, and everything in between.
@@ -197,7 +197,7 @@ export default function PricingPage() {
                 "Onboarding/Offboarding Automation",
                 "Advanced Admin & Field Privileges",
                 "Compensation Bands",
-                "Practio Mobile App",
+                "Pract** Mobile App",
                 "Advanced Policy Management",
                 "Dynamic Permissions & Approvals Management",
                 "Advanced Document Management",
@@ -224,7 +224,7 @@ export default function PricingPage() {
               {/* Feature Cards Section */}
  
 <div className="bg-gray-100 py-10">
-        <h2 className="text-3xl font-bold text-center mb-8">Practio HRMS Features</h2>
+        <h2 className="text-3xl font-bold text-center mb-8">Pract** HRMS Features</h2>
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 lg:grid-cols-2 gap-6 ">
           {modules.map((module, index) => (
             <div key={index} className="bg-white p-6 rounded-xl shadow-md  border-gray-200 border-t-2 border-yellow-400">
@@ -254,7 +254,7 @@ export default function PricingPage() {
       transition={{ duration: 0.6 }}
     >
       <h1 className="text-4xl font-bold mb-6">
-        Employees Get<br />More Done with<br />Practio
+        Employees Get<br />More Done with<br />Pract**
       </h1>
       <p className="text-lg text-gray-300 mb-6">
         Increase savings, automate busy work, and make better decisions by managing payroll, HR, IT, and spend in one place.
@@ -266,11 +266,11 @@ export default function PricingPage() {
           className="px-4 py-3 rounded-md bg-white/10 text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638] w-full sm:w-80"
         />
         <button className="bg-[#F5B638] text-black px-6 py-3 rounded-md hover:bg-[#E5A628] font-medium whitespace-nowrap">
-          See Practio
+          See Pract**
         </button>
       </div>
       <p className="mt-4 text-sm text-gray-400">
-        By clicking "See Practio," you agree to the use of your data in accordance with Practio's Privacy Notice.
+        By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s Privacy Notice.
       </p>
     </motion.div>
   </div>
@@ -283,7 +283,7 @@ export default function PricingPage() {
           transition={{ duration: 0.6 }}
         >
           <h1 className="text-4xl sm:text-5xl font-bold mb-4">
-            Employees Get More <center> Done with Practio</center>
+            Employees Get More <center> Done with Pract**</center>
           </h1>
           <p className="text-lg text-gray-300 mb-6">
             Increase savings, automate busy work, and make better decisions by managing <center>
@@ -315,7 +315,7 @@ export default function PricingPage() {
     <div className="bg-white py-16 px-6 sm:px-12 lg:px-24">
       {/* Header Text */}
       <h2 className="text-3xl sm:text-4xl font-bold text-center text-gray-900 mb-10">
-        Practio helps eliminate the busywork <br />
+        Pract** helps eliminate the busywork <br />
         so you can focus on the big picture.
       </h2>
  
@@ -325,13 +325,13 @@ export default function PricingPage() {
         <div className="p-8 w-full lg:w-2/3">
           <blockquote className="text-gray-700 text-lg">
             <span className="text-5xl text-gray-500 font-serif leading-none">“</span>
-            "Practio helps minimize the administrative work on the HR and IT side, which means I can spend more time on what I enjoy most: helping clients solve problems with innovative strategies".
+            "Pract** helps minimize the administrative work on the HR and IT side, which means I can spend more time on what I enjoy most: helping clients solve problems with innovative strategies".
             {/* <span className="text-5xl text-gray-500 font-serif leading-none">”</span> */}
           </blockquote>
  
           {/* Author */}
           <p className="mt-4 text-gray-800 font-bold">K Praveen Kumar</p>
-          <p className="text-gray-600 text-sm">Managing Director at Practio</p>
+          <p className="text-gray-600 text-sm">Managing Director at Pract**</p>
  
           {/* Statistics */}
           <div className="mt-6 flex gap-6">

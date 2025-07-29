@@ -192,7 +192,7 @@ const Benefits = () => {
                 transition={{ duration: 0.6, delay: 0.2 }}
                 className="text-xl text-gray-300 max-w-3xl mx-auto"
               >
-                Practio saves time and enables strategic decisions by automating manual tasks,
+                Pract** saves time and enables strategic decisions by automating manual tasks,
                 eliminating compliance errors, and giving employees access to information they need.
               </motion.p>
             </div>
@@ -225,12 +225,12 @@ const Benefits = () => {
                                 leading-normal
                               "/>
                             <button className="w-1/2 h-[58px] p-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                                          See Practio
+                                          See Pract**
                                         </button>
                         </div>
             
                         <p className="mt-3 text-sm text-gray-400 text-center">
-                          By clicking "See Practio," you agree to our terms and privacy policy.
+                          By clicking "See Pract**," you agree to our terms and privacy policy.
                         </p>
                       </motion.div>
                     </div>
@@ -294,7 +294,7 @@ const Benefits = () => {
             Unify your employee benefits
           </h2>
           <p className="text-gray-700 max-w-2xl mx-auto">
-            Practio brings your entire employee benefits administration experience—
+            Pract** brings your entire employee benefits administration experience—
             plan selection, broker partnership, payroll, and HRIS—into one platform,
             simplifying insurance integration and automating your benefits busy work.
           </p>

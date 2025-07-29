@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import logo from './Practio logo.png';
+import logo from './sample.png';
 import { useNavigate } from 'react-router-dom';
 const Footer = () => {
   const [ref, inView] = useInView({
@@ -35,8 +35,8 @@ const Footer = () => {
               transition={{ duration: 0.6 }}
             >
               {/* <Settings className="h-8 w-8 text-[#F5B638]" />
-              <span className="ml-2 text-xl font-bold">Practio</span> */}
-              <img src={logo} alt="Practio" className="h-8" />
+              <span className="ml-2 text-xl font-bold">Pract**</span> */}
+              <img src={logo} alt="Pract**" className="h-8" />
             </motion.div>
           {Object.entries(footerLinks).map(([category, links]) => (
             <div key={category}>
@@ -67,11 +67,11 @@ const Footer = () => {
               transition={{ duration: 0.6 }}
             > */}
               {/* <Settings className="h-8 w-8 text-[#F5B638]" />
-              <span className="ml-2 text-xl font-bold">Practio</span> */}
-              {/* <img src={logo} alt="Practio" className="h-8" />
+              <span className="ml-2 text-xl font-bold">Pract**</span> */}
+              {/* <img src={logo} alt="Pract**" className="h-8" />
             </motion.div> */}
             <div className="mt-4 md:mt-0 text-gray-400">
-              © {new Date().getFullYear()} Practio. All rights reserved.
+              © {new Date().getFullYear()} Pract**. All rights reserved.
             </div>
           </div>
         </div>

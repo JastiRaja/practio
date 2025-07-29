@@ -37,13 +37,13 @@ export default function SmallBusiness() {
       icon: "🧑‍💼",
       title: "Onboard in minutes, not days",
       description:
-        "As soon as you click 'Onboard', Practio takes care of the rest—sending offer letters, prompting benefits enrollment, and more.",
+        "As soon as you click 'Onboard', Pract** takes care of the rest—sending offer letters, prompting benefits enrollment, and more.",
     },
     {
       icon: "⚙️",
       title: "Make IT management automatic",
       description:
-        "Practio makes it easy to manage apps and devices, like automatically shipping laptops or controlling access to apps based on roles.",
+        "Pract** makes it easy to manage apps and devices, like automatically shipping laptops or controlling access to apps based on roles.",
     },
     {
       icon: "⏳",
@@ -75,7 +75,7 @@ export default function SmallBusiness() {
           Small business </h2>
           <h1 className="text-3xl font-bold leading-tight mt-2">
           HR software for small businesses</h1>
-          <p>Practio automates critical but tedious admin work for payroll,<br /> benefits, labour compliance, and more-so you can stay focused <br />on building your business.</p>
+          <p>Pract** automates critical but tedious admin work for payroll,<br /> benefits, labour compliance, and more-so you can stay focused <br />on building your business.</p>
  
           {/* Email Input */}
           <div className="mt-6 z-10">
@@ -90,7 +90,7 @@ export default function SmallBusiness() {
  
         {/* Right Image Section */}
         <div className="flex-1 flex justify-center">
-          <img src={logo19} alt="Practio HR Software" className="w-full max-w-lg rounded-lg" />
+          <img src={logo19} alt="Pract** HR Software" className="w-full max-w-lg rounded-lg" />
         </div>
       </div>
  
@@ -134,7 +134,7 @@ export default function SmallBusiness() {
         </h2>
         <p className="text-gray-400 mt-4">
           We ensure the payroll and benefits work you can't get wrong is always right.
-          With Practio, you can easily manage your payroll and benefits for everyone,
+          With Pract**, you can easily manage your payroll and benefits for everyone,
           everywhere, in one place.
         </p>
  
@@ -145,7 +145,7 @@ export default function SmallBusiness() {
             Sync benefits with payroll to automate deductions
           </p>
           <p className="text-gray-400">
-          Practio's Benefits Administration is integrated with Payroll, eliminating
+          Pract**'s Benefits Administration is integrated with Payroll, eliminating
             manual data entry by automatically applying updates, like a new marital
             status that changes an employee’s payroll deductions.
           </p>
@@ -162,7 +162,7 @@ export default function SmallBusiness() {
         Automate your entire <br /> HR, IT, and finance to-do list
       </h2>
       <p className="text-gray-500 mt-4 max-w-3xl">
-      Practio automatically handles more administrative tasks than any other HR
+      Pract** automatically handles more administrative tasks than any other HR
         solution, saving you time and money.
       </p>
  
@@ -225,14 +225,14 @@ export default function SmallBusiness() {
         Analyze, automate, and <br />orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes
+        Most “all-in-one” software consists of acquired systems. Pract** takes
         a platform approach, building products on a single source of truth for all
         business data related to employees.
       </p>
  
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
  
       {/* Cards */}
@@ -254,16 +254,16 @@ export default function SmallBusiness() {
  
       <center>  <div className="bg-[#3C1F3F] w-1/2  text-white py-16 px-8 flex justify-center">
       <div className="text-center max-w-3xl">
-        <h2 className="text-4xl font-bold">See Practio in action</h2>
+        <h2 className="text-4xl font-bold">See Pract** in action</h2>
         <p className="text-gray-300 mt-4">
-          Learn how Practio can help you streamline and save on HR, payroll,
+          Learn how Pract** can help you streamline and save on HR, payroll,
           benefits, compliance, and more.
         </p>
  
         {/* Buttons */}
         <div className="mt-6 z-10 flex justify-center gap-4">
           <button className="bg-yellow-500 z-10 text-black font-semibold px-6 py-3 rounded-lg"
-           onClick={() => window.location.href = '/seePractio'}>
+           onClick={() => window.location.href = '/seePract**'}>
             Request Demo
           </button>
          

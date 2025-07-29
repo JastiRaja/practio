@@ -25,7 +25,7 @@ export default function ScheduleDemoForm() {
   return (
     <div className="flex flex-col items-center mt-10 justify-center min-h-screen bg-[#3c1f3f] text-white p-6">
 
-      <h2 className="text-3xl font-bold mb-2">See Practio in Action</h2>
+      <h2 className="text-3xl font-bold mb-2">See Pract** in Action</h2>
       <p className="mb-6 text-center">Schedule a 30-minute product demo with expert Q+A.</p>
 
       {/* Form Section */}
@@ -62,7 +62,7 @@ export default function ScheduleDemoForm() {
       </form>
 
       <p className="text-sm mt-4 text-center ">
-        By clicking "Schedule Demo," you agree to the use of your data in accordance with Practio's < br /><a href="#" className="underline">Privacy Notice</a>, including for marketing purposes.
+        By clicking "Schedule Demo," you agree to the use of your data in accordance with Pract**'s < br /><a href="#" className="underline">Privacy Notice</a>, including for marketing purposes.
       </p>
 
       {/* Added extra space between form and star ratings */}

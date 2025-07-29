@@ -71,13 +71,13 @@ const Expense = () => {
                     leading-normal
                   "/>
                 {/* <button className="flex justify-center px-8 z-10 py-1 bg-[#006BFF] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                              See Practio
+                              See Pract**
                             </button> */}
                             <SendHorizontal className="h-10 w-10 text-[#F5B638] "/>
             </div>
 
             <p className="mt-3 text-sm text-gray-400 text-center">
-              By clicking "See Practio," you agree to our terms and privacy policy.
+              By clicking "See Pract**," you agree to our terms and privacy policy.
             </p>
           </motion.div>
         </div>
@@ -94,7 +94,7 @@ const Expense = () => {
               </div>
               <h3 className="text-2xl font-semibold">Reimburse people in 100+ countries</h3>
               <p>
-                Practio offers the fastest way to reimburse employees and contractors for corporate expenses globally.
+                Pract** offers the fastest way to reimburse employees and contractors for corporate expenses globally.
               </p>
             </motion.div>
 
@@ -124,7 +124,7 @@ const Expense = () => {
               </div>
               <h3 className="text-2xl font-semibold">Collect receipts in any language</h3>
               <p>
-                Practio translates receipts and converts currencies for easy tracking.
+                Pract** translates receipts and converts currencies for easy tracking.
               </p>
             </motion.div>
           </div>

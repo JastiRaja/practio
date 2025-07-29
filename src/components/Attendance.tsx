@@ -66,11 +66,11 @@ const Attendance = () => {
                               leading-normal
                             "/>
                          <button className="w-1/2 h-[58px] px-2 py-1 z-10 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                See Practio
+                See Pract**
               </button>
                       </div>
             <p className="mt-3 text-sm text-gray-400">
-                By clicking "See Practio," you agree to our terms and privacy policy.
+                By clicking "See Pract**," you agree to our terms and privacy policy.
               </p>
           </motion.div>
         </div>
@@ -92,7 +92,7 @@ const Attendance = () => {
         <p>Connect your employees payroll with their login time </p>
 
         <h6 className='text-center font-bold mt-10 text-center'>Other systems are error-prone and take hours of
-           manual work to reconcile. With Practio, approved 
+           manual work to reconcile. With Pract**, approved 
            hours automatically flow into Payroll—reducing manual data entry and errors.</h6>
        </div>
       </div>

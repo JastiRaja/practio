@@ -65,11 +65,11 @@ const Payroll = () => {
                               leading-normal
                             "/>
                          <button className=" h-[58px] w-3/4 py-1 z-10 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-                See Practio
+                See Pract**
               </button>
                       </div>
             <p className="mt-3 text-sm text-gray-400">
-                By clicking "See Practio," you agree to our terms and privacy policy.
+                By clicking "See Pract**," you agree to our terms and privacy policy.
               </p>
           </motion.div>
         </div>
@@ -78,7 +78,7 @@ const Payroll = () => {
             Run payroll accurately. On time. Every time.
           </h2>
           <p className="text-lg text-gray-400 text-center max-w-4xl mx-auto mb-16">
-            We built Practio’s payroll software on a unified record of employee data, meaning it can automate manual work and reduce the risk of human error.
+            We built Pract**’s payroll software on a unified record of employee data, meaning it can automate manual work and reduce the risk of human error.
           </p>
           <div className="flex justify-center items-center">
             <div className="bg-white text-black rounded-lg p-6 shadow-md w-full max-w-lg">
@@ -95,7 +95,7 @@ const Payroll = () => {
               <p className="text-lg mb-2 text-gray-400">Calculating</p>
 
               <h3 className="text-3xl font-bold mt-8">$16,245</h3>
-              <p className="text-lg text-gray-500">Practio will debit your account</p>
+              <p className="text-lg text-gray-500">Pract** will debit your account</p>
             </div>
           </div>
         </div>

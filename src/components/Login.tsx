@@ -1,6 +1,6 @@
 import { ChevronDown, User, Eye, EyeOff } from "lucide-react";
 import { useState } from "react";
-import logo from './Practio logo.png'
+import logo from './sample.png'
 
 export default function Login() {
   const [email, setEmail] = useState("");
@@ -38,7 +38,7 @@ export default function Login() {
             </h1>
             <p className="text-gray-600 text-sm mb-4">
               Enter your personal email address or phone number that you use to
-              sign in to Practio
+              sign in to Pract**
             </p>
             <div className="bg-yellow-100 border-l-4 border-yellow-500 text-yellow-700 p-3 mb-4 text-sm rounded-md">
               <strong>⚠️ Important:</strong> If you’re using RPass, resetting
@@ -72,7 +72,7 @@ export default function Login() {
         ) : step === "email" ? (
           <>
             <h1 className="text-2xl text-center font-semibold mt-4 mb-6 text-gray-700">
-              Sign in to Practio
+              Sign in to Pract**
             </h1>
             <form onSubmit={handleEmailSubmit}>
               <label className="block text-left text-gray-600 text-sm mb-2">
@@ -93,7 +93,7 @@ export default function Login() {
               </button>
             </form>
             <p className="mt-4 text-sm text-center text-gray-600">
-              By clicking "Continue" you agree to Practio's{" "}
+              By clicking "Continue" you agree to Pract**'s{" "}
               <a href="#" className="text-[blue] underline font-semibold">
                 User Terms of Service
               </a>{" "}

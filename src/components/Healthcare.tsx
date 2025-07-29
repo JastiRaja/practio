@@ -29,10 +29,10 @@ const Healthcare = () => {
         {/* Left Content Section */}
         <div className="flex-1 max-w-xl">
           <h2 className="text-lg uppercase tracking-wide text-gray-300">
-          Practio For Health Care
+          Pract** For Health Care
           </h2>
           <h1 className="text-3xl font-bold leading-tight mt-2">
-          Say goodbye to HR, Payroll, and compliance headaches – streamline with Practio!</h1>
+          Say goodbye to HR, Payroll, and compliance headaches – streamline with Pract**!</h1>
 
           {/* Email Input */}
           <div className="relative flex items-center mt-8 space-x-4">
@@ -42,11 +42,11 @@ const Healthcare = () => {
               className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
             />
             <button className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-              See Practio
+              See Pract**
             </button>
           </div>
           <p className="text-sm text-gray-400 mt-3">
-            By clicking "See Practio," you agree to the use of your data in accordance with Practio's{" "}
+            By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s{" "}
             <a href="#" className="text-white underline">
               Privacy Notice
             </a>
@@ -56,7 +56,7 @@ const Healthcare = () => {
 
         {/* Right Image Section */}
         <div className="flex-1 flex justify-center">
-          <img src={logo18} alt="Practio HR Software" className="w-full max-w-lg rounded-lg" />
+          <img src={logo18} alt="Pract** HR Software" className="w-full max-w-lg rounded-lg" />
         </div>
       </div>
 
@@ -91,7 +91,7 @@ const Healthcare = () => {
  not hours
       </h2>
       <p className="text-gray-600 max-w-2xl mt-4">
-        Practio syncs all your business's HR data with payroll. Never manually
+        Pract** syncs all your business's HR data with payroll. Never manually
         enter data, like hours worked, or use a calculator to crunch shift
         differentials, PTO, and multiple pay rates again.
       </p>
@@ -112,7 +112,7 @@ const Healthcare = () => {
   <div className="w-full text-left">
     <center><h2 className="text-black text-2xl">Create and customize any report imaginable</h2>
     <p className="text-gray-600 mt-4 w-1/2 ">
-      Practio's powerful, easy-to-use reporting engine gives your team the insight they need to make smart staffing decisions. From headcount growth and employee turnover by location, to benefits costs, employment equity reporting, and much more.
+      Pract**'s powerful, easy-to-use reporting engine gives your team the insight they need to make smart staffing decisions. From headcount growth and employee turnover by location, to benefits costs, employment equity reporting, and much more.
     </p></center>
   </div>
 
@@ -125,7 +125,7 @@ const Healthcare = () => {
         <h4 className="text-sm uppercase tracking-wide">Onboarding Automation</h4>
         <h2 className="text-3xl font-bold mt-2">Stay fully staffed without breaking a sweat</h2>
         <p className="text-gray-300 w-3/4 mt-4">
-          Practio helps you scale up your team when you're understaffed or when turnover is high, 
+          Pract** helps you scale up your team when you're understaffed or when turnover is high, 
           so you can fully hire and onboard new staff in a matter of days, not weeks.
         </p>
         {/* <a href="#" className="mt-4 inline-block text-yellow-400 border-b-2 border-yellow-400">
@@ -158,14 +158,14 @@ const Healthcare = () => {
 orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes 
+        Most “all-in-one” software consists of acquired systems. Pract** takes 
         a platform approach, building products on a single source of truth for all 
         business data related to employees.
       </p>
 
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
 
       {/* Cards */}
@@ -198,7 +198,7 @@ orchestrate anything
             <h3 className="text-lg font-semibold"></h3>
           </div>
           <p className="mt-2 text-gray-300">
-            See how you can automate your workflows and reporting with Practio’s growing
+            See how you can automate your workflows and reporting with Pract**’s growing
             library of pre-built templates.
           </p>
           {/* <a href="#" className="mt-3 text-yellow-400 font-semibold underline">
@@ -214,12 +214,12 @@ orchestrate anything
             Get a demo—<span className="text-yellow-400">live or on demand</span>
           </h2>
           <p className="mt-3 text-gray-300">
-            See how Practio can help you manage all of your employee data and operations in
+            See how Pract** can help you manage all of your employee data and operations in
             one place and easily grow your business from 2 to 2,000+ employees.
           </p>
           <div className="mt-6 flex gap-4 z-10">
             <button className="bg-yellow-500 text-black z-10 px-6 py-3 rounded-md font-semibold hover:bg-yellow-600"
-             onClick={() => window.location.href = '/seePractio'}>
+             onClick={() => window.location.href = '/seePract**'}>
               Request Live Demo
             </button>
             {/* <button className="border border-yellow-400 text-yellow-400 px-6 py-3 rounded-md font-semibold hover:bg-yellow-500 hover:text-black">

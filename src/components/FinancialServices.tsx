@@ -29,7 +29,7 @@ const FinancialServices = () => {
         {/* Left Content Section */}
         <div className="flex-1 max-w-xl">
           <h2 className="text-lg uppercase tracking-wide text-gray-300">
-          Practio for Financial Services
+          Pract** for Financial Services
           </h2>
           <h1 className="text-4xl font-bold leading-tight mt-2">
           Focus on growing your team and clients, not on HR and IT hassles.</h1>
@@ -42,12 +42,12 @@ const FinancialServices = () => {
               className="flex-1 px-6 py-4 bg-white/10 rounded-lg text-white placeholder-gray-400 border border-gray-600 focus:outline-none focus:border-[#F5B638]"
             />
             <button className="px-6 py-4 bg-[#F5B638] text-black rounded-lg hover:bg-[#E5A628] font-medium">
-              See Practio
+              See Pract**
             </button>
           </div>
  
           <p className="text-sm text-gray-400 mt-3">
-            By clicking "See Practio," you agree to the use of your data in accordance with Practio's{" "}
+            By clicking "See Pract**," you agree to the use of your data in accordance with Pract**'s{" "}
             <a href="#" className="text-white underline">
               Privacy Notice
             </a>
@@ -58,7 +58,7 @@ const FinancialServices = () => {
  
         {/* Right Image Section */}
         <div className="flex-1 flex justify-center">
-          <img src={logo13} alt="Practio HR Software" className="w-full max-w-lg rounded-lg" />
+          <img src={logo13} alt="Pract** HR Software" className="w-full max-w-lg rounded-lg" />
         </div>
       </div>
  
@@ -90,7 +90,7 @@ const FinancialServices = () => {
        </h2>
        <p className="text-gray-600 mt-4 max-w-2xl">
          Doubling your headcount doesn't mean you should be doubling your workload.
-         Practio lets you manage all of your people operations in one place.
+         Pract** lets you manage all of your people operations in one place.
        </p>
  
        {/* First Section: Payroll Automation */}
@@ -127,7 +127,7 @@ const FinancialServices = () => {
          <div className="md:w-1/2   ">
            <h3 className="text-xl font-bold text-gray-900">Payroll that runs itself</h3>
            <p className="text-gray-600 mt-4">
-             Practio syncs all your business's HR data with payroll.
+             Pract** syncs all your business's HR data with payroll.
              Never manually enter data, like PTO hours, or use a calculator to crunch
              Group RRSP or benefit deductions again.
            </p>
@@ -141,7 +141,7 @@ const FinancialServices = () => {
            <div className="flex flex-col items-center">
              {/* <img src="https://via.placeholder.com/60" alt="Kelly Martin" className="rounded-full" /> */}
              <h3 className="font-bold text-xl text-grey-900 mt-4">Automatic updates with employee changes</h3>
-             <p className="text-gray-600 mt-4"> Exciting new change—like promotion, marriage, or department transfer? Complete changes in minutes, not hours. For example, when an employee is promoted to a manager, Practio can automatically update their permissions in Practio and other work apps based on preconfigured settings for their new role.</p>
+             <p className="text-gray-600 mt-4"> Exciting new change—like promotion, marriage, or department transfer? Complete changes in minutes, not hours. For example, when an employee is promoted to a manager, Pract** can automatically update their permissions in Pract** and other work apps based on preconfigured settings for their new role.</p>
              
            </div>
          
@@ -151,7 +151,7 @@ const FinancialServices = () => {
          <div className="md:w-1/2 bg-white shadow-lg p-6 rounded-lg">
            <h3 className="text-xl font-bold text-gray-900">Effortless device management</h3>
            <p className="text-gray-600 mt-4">
-           Use one integrated solution to securely manage your employees’ computers, monitors, and more. Practio lets you set up, ship, and monitor devices from your own computer. Plus, for remote employees, we efficiently manage device retrieval when they offboard and securely store unused devices.                      </p>
+           Use one integrated solution to securely manage your employees’ computers, monitors, and more. Pract** lets you set up, ship, and monitor devices from your own computer. Plus, for remote employees, we efficiently manage device retrieval when they offboard and securely store unused devices.                      </p>
            
          </div>
        </div>
@@ -164,7 +164,7 @@ const FinancialServices = () => {
         <h2 className="text-3xl font-bold mt-2">Onboard new hires in 90 seconds</h2>
         <p className="mt-4 text-gray-300">
           With new hires starting every week, onboarding is a daily task for
-          fast-growing financial firms. practio makes it incredibly easy—
+          fast-growing financial firms. Pract** makes it incredibly easy—
           we’ll automatically add new hires to payroll, enroll them in benefits,
           and set them up in the right systems like GSuite, Slack, or Anaplan.
         </p>
@@ -208,14 +208,14 @@ const FinancialServices = () => {
         Analyze, automate, and <br />orchestrate anything
       </h2>
       <p className="text-black mt-4 max-w-2xl mx-auto">
-        Most “all-in-one” software consists of acquired systems. Practio takes
+        Most “all-in-one” software consists of acquired systems. Pract** takes
         a platform approach, building products on a single source of truth for all
         business data related to employees.
       </p>
  
       {/* Learn More Link */}
       {/* <a href="#" className="text-gray-900 font-semibold mt-6 inline-block border-b-2 border-gray-900 hover:text-gray-700">
-        Learn more about the Practio Platform
+        Learn more about the Pract** Platform
       </a> */}
  
       {/* Cards */}
@@ -245,7 +245,7 @@ const FinancialServices = () => {
                     <h3 className="text-lg font-semibold"></h3>
                   </div>
           <p className="mt-2 text-gray-300">
-            See how you can automate your workflows and reporting with Practio’s growing
+            See how you can automate your workflows and reporting with Pract**’s growing
             library of pre-built templates.
           </p>
           {/* <a href="#" className="mt-3 text-yellow-400 font-semibold underline">
@@ -261,12 +261,12 @@ const FinancialServices = () => {
             Get a demo—<span className="text-yellow-400">live or on demand</span>
           </h2>
           <p className="mt-3 text-gray-300">
-            See how Practio can help you manage all of your employee data and operations in
+            See how Pract** can help you manage all of your employee data and operations in
             one place and easily grow your business from 2 to 2,000+ employees.
           </p>
           <div className="mt-6 flex gap-4">
             <button className="bg-yellow-500 z-10 text-black px-6 py-3 rounded-md font-semibold hover:bg-yellow-600"
-             onClick={() => window.location.href = '/seePractio'}>
+             onClick={() => window.location.href = '/seePract**'}>
               Request Live Demo
             </button>
             {/* <button className="border border-yellow-400 text-yellow-400 px-6 py-3 rounded-md font-semibold hover:bg-yellow-500 hover:text-black">
