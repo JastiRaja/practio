@@ -1,7 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import GridBackground from './GridBackground'
-import permission from './Practiopermission.avif'
+import permission from './practiopermission.avif'
 import permissions1 from './permissions.webp'
 
 const Permissions = () => {
